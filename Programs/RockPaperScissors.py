@@ -48,7 +48,7 @@ for i in range(1,6):
         else:
             print "Your Option is Scissor"
             print "Computer's gives Rock"
-            print "So You Loose Hard Luck"
+            print "So You Loose Hard Luck!!"
             pointpc+=1
     else:
         print "INcalid Option"
